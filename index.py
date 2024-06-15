@@ -1,0 +1,1 @@
+qualquer = int(input("blablabla:"))
