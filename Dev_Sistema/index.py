@@ -1,1 +1,3 @@
-qualquer = int(input("blablabla:"))
+# ESTAREI TESTANDO
+
+int = 12121
