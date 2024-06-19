@@ -1,3 +1,0 @@
-# ESTAREI TESTANDO
-
-int = 12121
