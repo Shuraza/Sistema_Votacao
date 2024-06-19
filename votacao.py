@@ -7,14 +7,14 @@ junior_do_povão = 444
 # vereador / numero do candidato 
 papa_capim = 1
 efraim = 2
-r = 3
-e = 4
-a = 5
-d = 6
-o = 7 
-r = 8
-vv = 9
-ee = 10
+reinaldo = 3
+ednaldo = 4
+ana = 5
+dioga = 6
+oranja = 7 
+reginaldo = 8
+valoranta = 9
+dburcio = 10
 
 while continuar != 0 :
   print(para começar a eleição digite y)
