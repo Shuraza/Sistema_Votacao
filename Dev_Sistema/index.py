@@ -1,1 +1,1 @@
-qualquer = int(input("blablabla:"))
+# CRIAR UM SISTEMA DE URNA
