@@ -17,4 +17,6 @@ valoranta = 9
 dburcio = 10
 
 while continuar != 0 :
-  print(para começar a eleição digite y)
+  inicio = input("Responda com Y para iniciar o sistema").upper()
+  
+
