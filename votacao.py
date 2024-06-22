@@ -1,8 +1,8 @@
 #prefeitos / numero do candidato 
-joão = 111
-paulo = 222
-pedro = 333
-junior_do_povão = 444
+joão = 11
+paulo = 22
+pedro = 33
+junior_do_povão = 44
 
 # vereador / numero do candidato 
 papa_capim = 1
@@ -17,6 +17,17 @@ valoranta = 9
 dburcio = 10
 
 while continuar != 0 :
-  inicio = input("Responda com Y para iniciar o sistema").upper()
-  
 
+  print("Se deseja iniciar a votação, DIGITE Y\n")
+  print("Caso deseje encerrar o sistema, DIGITE N\n")
+  inicio = input("").upper()
+ 
+  if inicio == "Y" :
+      while inicio == "Y" :
+          print("Tchau")
+ 
+  elif inicio == "N" :
+      continuar = 0
+ 
+  else :
+      print("Escreva Y ou N!")
