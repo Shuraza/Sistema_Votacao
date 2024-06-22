@@ -1,2 +1,0 @@
-# Sistema_Votacao
-alterei
