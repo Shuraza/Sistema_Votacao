@@ -1,0 +1,1 @@
+saodjawdjlçaw = int(input("adawadawdwad"))
